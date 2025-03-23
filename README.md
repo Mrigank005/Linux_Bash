@@ -39,7 +39,7 @@ Welcome to my Linux Lab Course Repository! This repository contains a collection
 | `sysinfo.sh`             | Displays system information.                         |
 | `voteeligible.sh`        | Checks if a person is eligible to vote based on age. |
 | `wordcount.sh`           | Counts the number of words in a file.                |
-|--------------------------|------------------------------------------------------|
+
 ---
 
 ## 🚀 How to Run the Scripts
