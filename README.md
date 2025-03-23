@@ -1,4 +1,4 @@
-🚀 **Linux Lab Course - Shell Scripts**
+## 🚀 Linux Lab Course - Shell Scripts
 
 Welcome to my Linux Lab Course Repository! This repository contains a collection of shell scripts implemented as part of my university coursework. These scripts cover a wide range of shell scripting concepts, including arithmetic operations, string manipulation, file handling, and system utilities. 🌟
 
@@ -62,5 +62,5 @@ Welcome to my Linux Lab Course Repository! This repository contains a collection
 
 ---
 
-🎯 **Happy Scripting!** 🎯
+## 🎯 Happy Scripting! 🎯
 
