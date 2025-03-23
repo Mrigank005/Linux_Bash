@@ -5,10 +5,10 @@ Welcome to my Linux Lab Course Repository! This repository contains a collection
 ---
 
 ## 📌 Features
-✅ Well-structured and commented shell scripts
-✅ Covers basic to advanced shell scripting concepts
-✅ Practical scripts for real-world Linux operations
-✅ Useful for beginners and advanced Linux users
+- ✅ Well-structured and commented shell scripts
+- ✅ Covers basic to advanced shell scripting concepts
+- ✅ Practical scripts for real-world Linux operations
+- ✅ Useful for beginners and advanced Linux users
 
 ---
 
